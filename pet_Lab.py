@@ -1,9 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
+#studentNumber:301000913
+#name: Chunghyun Lee
+#courseNumber: COMP 216-001
 class Pet:
     def __init__(self, name, number):
         self.name = name
